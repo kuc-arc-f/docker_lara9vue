@@ -6,16 +6,16 @@
 
  date    : 2022/06/01
  
- update  :
+ update  : 2022/06/06
 
 ***
 
 ### summary
 
-docker setup, nginx + php8.0 + laravel + vue 2
+docker setup, nginx + php8.1 + laravel + vue 2
 
 ***
-* php 8.0-fpm
+* php:8.1.0-fpm
 * nginx
 * mysql
 * laravel 9
